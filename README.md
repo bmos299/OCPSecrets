@@ -1,3 +1,6 @@
+Pre-req:
+https://github.com/bmos299/CertificateGenerator
+
 This is meant to be used when you are generating secrets and applying to your ocp cluster. This script will generate the required
 .yaml files, generate the secret and apply to the cluster. So make sure you are logged into your OCP cluster already.
 
